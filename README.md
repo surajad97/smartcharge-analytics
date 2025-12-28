@@ -49,7 +49,7 @@ This project provides a robust API-driven analytics platform that processes EV c
 
 1. **Clone or download the project**
    ```bash
-   cd /home/user/ev_charging_analytics
+   cd /home/user/smartcharge_analytics
    ```
 
 2. **Install dependencies**
