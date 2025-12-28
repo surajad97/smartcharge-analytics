@@ -1,5 +1,5 @@
 [project]
-name = "EV-Charging-Analytics"
+name = "SmartCharg-Analytics"
 version = "0.1.0"
 description = "EV Charging Analytics Platform - A comprehensive system for analyzing EV charging patterns with real-time insights"
 readme = "README.md"
