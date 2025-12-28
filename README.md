@@ -15,6 +15,19 @@ This project provides a robust API-driven analytics platform that processes EV c
 - **CORS Support** for integration with frontend applications
 - **Flexible Filtering** with date range queries
 
+## Dashboard Example
+
+This backend can power interactive analytics dashboards that visualize EV charging patterns and key performance indicators:
+
+![EV Charging Analytics Dashboard](dashboard_example.png)
+
+The dashboard displays:
+- **Real-time KPI cards** showing total energy consumption, daily averages, peak loads, and utilization metrics
+- **Daily energy consumption charts** with time-series visualization
+- **Hourly load analysis** for peak demand identification
+- **Date range filtering** to explore specific time periods
+- **Active charging hours tracking** to monitor network utilization
+
 ## Tech Stack
 
 - **FastAPI** - Modern, fast web framework for building APIs
