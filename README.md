@@ -391,3 +391,6 @@ To add new endpoints or KPIs:
 3. Return standardized JSON responses
 4. Include proper error handling
 5. Document the endpoint with curl examples
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
