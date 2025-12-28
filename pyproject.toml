@@ -1,0 +1,27 @@
+[project]
+name = "EV-Charging-Analytics"
+version = "0.1.0"
+description = "EV Charging Analytics Platform - A comprehensive system for analyzing EV charging patterns with real-time insights"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    {name = "Suraj Adhikari"},
+]
+keywords = [
+    "ev-charging",
+    "power-grid",
+    "analytics",
+    "forecasting",
+    "energy-management",
+]
+dependencies = [
+    "fastapi>=0.126.0",
+    "ipykernel>=7.1.0",
+    "kagglehub>=0.3.13",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "psycopg2-binary>=2.9.11",
+    "python-dotenv>=1.2.1",
+    "sqlalchemy>=2.0.45",
+    "uvicorn>=0.38.0",
+]
