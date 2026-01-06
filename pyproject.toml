@@ -22,6 +22,8 @@ dependencies = [
     "pandas>=2.3.3",
     "psycopg2-binary>=2.9.11",
     "python-dotenv>=1.2.1",
+    "scikit-learn>=1.7.2",
     "sqlalchemy>=2.0.45",
+    "statsmodels>=0.14.6",
     "uvicorn>=0.38.0",
 ]
